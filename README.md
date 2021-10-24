@@ -19,6 +19,8 @@ The project consists of two technical analysis deliverables and a written report
 
 ### Results
 
+Dashboard on Tableau: [NYC Citi Bike Bashboard](https://public.tableau.com/app/profile/kunal.juneja/viz/NYC_Citibike_Challenge_16351040850950/NYCCitiBikes)
+
 The results of the visualizations are shown below:
 
 #### Before starting the analysis, it helps to know where the popular staring locations are. This will help understand the trends in NYC.
